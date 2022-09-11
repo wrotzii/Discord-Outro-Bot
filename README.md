@@ -3,12 +3,12 @@
 😳🤨
 
 ### **Example Environment File**
-```
-token = "DISCORD_TOKEN_HERE";
+```env
+token = "DISCORD_TOKEN_HERE"
 ```
 
 ### **License**
-```
+```license
 MIT License
 
 Copyright (c) 2022 mazkdevf
